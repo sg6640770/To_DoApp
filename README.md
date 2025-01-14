@@ -66,3 +66,10 @@ Running Instructions:
 >Run this command on terminal : npm run dev
 >You will get a link on terminal.
 >Copy that link and paste it on the terminal.
+
+Refercences:
+>https://github.com/sg6640770/To_DoApp/blob/main/1.png
+>https://github.com/sg6640770/To_DoApp/blob/main/2.png
+>https://github.com/sg6640770/To_DoApp/blob/main/3.png
+>https://github.com/sg6640770/To_DoApp/blob/main/4.png
+>https://github.com/sg6640770/To_DoApp/blob/main/5.png
