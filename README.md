@@ -62,7 +62,7 @@ Setup Instructions:
 >Run this command on terminal : Replace <repository_name> with the name of your
 
 Running Instructions: 
-1.Run this command on terminal : npm install
-2.Run this command on terminal : npm run dev
-3.You will get a link on terminal.
-4.Copy that link and paste it on the terminal.
+>Run this command on terminal : npm install
+>Run this command on terminal : npm run dev
+>You will get a link on terminal.
+>Copy that link and paste it on the terminal.
